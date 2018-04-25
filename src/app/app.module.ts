@@ -3,6 +3,7 @@ import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { RouterModule, Routes } from '@angular/router';
+import { ParticlesModule } from 'angular-particle';
 
 import { AppComponent } from './app.component';
 import { ToolbarComponent } from './Public/toolbar/toolbar.component';
@@ -12,7 +13,7 @@ import { AboutComponent } from './MainContent/about/about.component';
 import { StaffComponent } from './MainContent/staff/staff.component';
 import { PageNotFoundComponent } from './Public/page-not-found/page-not-found.component'
 import {
-  MatAutocompleteModule,
+    MatAutocompleteModule,
   MatButtonModule,
   MatButtonToggleModule,
   MatPaginatorModule,
@@ -79,6 +80,7 @@ const appRoutes: Routes = [
     PageNotFoundComponent
   ],
   imports: [
+    ParticlesModule,
     BrowserModule,
     BrowserAnimationsModule,
     MatAutocompleteModule,
