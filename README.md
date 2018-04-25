@@ -1,3 +1,3 @@
-# Vicarious Networks New Website - Designed by Tom Apter
+# Vicarious
 
-This is the GitHub repo for the new Vicarious website, built using the Angular Framework with Material Design
+
