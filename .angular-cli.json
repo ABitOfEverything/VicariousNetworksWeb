@@ -20,7 +20,7 @@
       "prefix": "app",
       "styles": [
         "styles.css",
-        "vicarious.scss"
+        "vicarious.scss
       ],
       "scripts": [],
       "environmentSource": "environments/environment.ts",
