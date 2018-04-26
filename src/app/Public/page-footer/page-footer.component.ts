@@ -9,7 +9,5 @@ export class PageFooterComponent implements OnInit {
 
   constructor() { }
 
-  ngOnInit() {
-  }
-
+  ngOnInit() {}
 }

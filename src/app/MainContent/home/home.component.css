@@ -1,3 +1,17 @@
 .backgroundparticles {
   background-color: #18a3b6
 }
+.main {
+  margin: 3%;
+  /* opacity: 0.75; */
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+.divider {
+  margin: 3%;
+}
+
+.content {
+  text-align: center;
+}

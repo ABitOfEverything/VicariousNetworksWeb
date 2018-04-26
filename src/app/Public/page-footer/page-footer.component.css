@@ -1,6 +1,10 @@
-mat-card {
+.footer {
+  display: block;
   position: fixed;
   bottom: 0;
   width: 100% ;
+  font-size: 70%;
+  /* text-align: right; */
+  /* float: right; */
 
 }
