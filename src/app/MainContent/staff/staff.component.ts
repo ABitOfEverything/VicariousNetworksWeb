@@ -8,7 +8,6 @@ import { Component, OnInit } from '@angular/core';
 export class StaffComponent implements OnInit {
 
   constructor() { }
-
   myStyle: object = {};
   myParams: object = {};
   width: number = 100;
@@ -135,7 +134,6 @@ export class StaffComponent implements OnInit {
       },
       "retina_detect": true
     }
-
   }
 
 }
