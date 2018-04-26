@@ -30,7 +30,6 @@ export class HomeComponent implements OnInit {
       "particles": {
         "number": {
           "value": 70,
-
           "density": {
             "enable": true,
             "value_area": 800
