@@ -29,7 +29,8 @@ export class HomeComponent implements OnInit {
     this.myParams = {
       "particles": {
         "number": {
-          "value": 130,
+          "value": 70,
+
           "density": {
             "enable": true,
             "value_area": 800
