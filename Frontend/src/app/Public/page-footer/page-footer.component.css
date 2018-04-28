@@ -1,0 +1,23 @@
+.footer {
+  display: block;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+
+}
+.footer-content {
+
+  font-size: 70%;
+  margin-right: 5%;
+  /* width: 100% */
+  /* margin-top: 5%; */
+  /* text-align: right; */
+  /* float: right; */
+}
+
+.spacer {
+  float: right;
+
+  /* margin-right: 5%; */
+  /* text-align: right; */
+}
